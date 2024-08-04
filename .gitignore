@@ -5,6 +5,8 @@
 .DS_Store?
 Thumbs.db
 node_modules/
+/assets
+assets/
 /node_modules
 /bower_components
 bower_components/
